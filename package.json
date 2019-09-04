@@ -9,14 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yoonslee/FriendFinder.git"
+    "url": "git+https://github.com/karishmahossain/FriendFinder.git"
   },
-  "author": "Yoon Lee",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/yoonslee/FriendFinder/issues"
-  },
-  "homepage": "https://github.com/yoonslee/FriendFinder#readme",
+  "author": "Karishma Hossain",
+  "homepage": "https://github.com/karishmahossain/FriendFinder.git",
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2"
